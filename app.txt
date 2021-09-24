@@ -1,3 +1,4 @@
 melhoria desenvolvida na feature/f1
-melhoria desenvolvida na feature/f2
+melhoria desenvolvida na feature/f2D
 Criado um hotfix para rc 0.2.1
+melhoria desenvolvida na feature/f3
