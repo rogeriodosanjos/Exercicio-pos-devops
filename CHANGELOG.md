@@ -25,4 +25,7 @@
 #
 - ADICIONADO - 24/set/2021
   - Criado melhoria para 1.0.0-rc
+# 
+- ADICIONADO - 24/set/2021
+  - Fechado versão para 1.0.0
 
