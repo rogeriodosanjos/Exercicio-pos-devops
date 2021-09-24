@@ -12,3 +12,5 @@
 
 ## Atualizações
 
+- CORRIGIDO - 24/set/2021 
+  - Criado um hotfix para correção de erro em prod 0.2.1-rc
