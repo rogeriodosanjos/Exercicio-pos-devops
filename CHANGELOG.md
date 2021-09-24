@@ -11,3 +11,11 @@
 
 
 ## Atualizações
+
+- ADICIONADO - 24/set/2021
+  - Criado melhoria para 0.1.0-rc
+  - Criado merge da develop para release
+#
+- ADICIONADO - 24/set/2021
+ - Criado melhoria para 0.2.0-rc
+ - Criado tag 0.2.0-rc e pull request da develop -> release
