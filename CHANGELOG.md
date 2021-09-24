@@ -19,3 +19,6 @@
 - ADICIONADO - 24/set/2021
  - Criado melhoria para 0.2.0-rc
  - Criado tag 0.2.0-rc e pull request da develop -> release
+#
+- CORRIGIDO - 24/set/2021 
+ - Criado um hotfix para correção de erro em prod 0.2.1-rc
