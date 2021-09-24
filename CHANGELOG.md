@@ -12,5 +12,7 @@
 
 ## Atualizações
 
-- ADICIONADO
+- ADICIONADO - 24/set/2021
   - Criado melhoria e para 0.1.0-rc
+  - Criado merge da devlop para release
+
