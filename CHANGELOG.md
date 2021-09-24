@@ -17,17 +17,12 @@
   - Criado merge da develop para release
 #
 - ADICIONADO - 24/set/2021
-<<<<<<< HEAD
  - Criado melhoria para 0.2.0-rc
  - Criado tag 0.2.0-rc e pull request da develop -> release
 #
 - CORRIGIDO - 24/set/2021 
  - Criado um hotfix para correção de erro em prod 0.2.1-rc
-=======
-  - Criado melhoria para 0.2.0-rc
-  - Criado tag 0.2.0-rc e pull request da develop -> release
 #
 - ADICIONADO - 24/set/2021
   - Criado melhoria para 1.0.0-rc
-  - Criado tag 1.0.0-rc e pull request da develop -> release
->>>>>>> e925c27792911baab67b186ed08b559adc93a974
+
