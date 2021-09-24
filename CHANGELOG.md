@@ -11,3 +11,6 @@
 
 
 ## Atualizações
+
+- ADICIONADO
+  - Criado melhoria e para 0.1.0-rc
