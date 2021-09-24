@@ -28,4 +28,3 @@
 # 
 - ADICIONADO - 24/set/2021
   - Fechado versão para 1.0.0
-
